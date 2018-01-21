@@ -44,7 +44,6 @@ public class MainActivity extends AppCompatActivity {
     private Cursor cursor;
     private Spinner categorySpinner, listSpinner;
     private TableLayout tableLayout;
-    private ScrollView scrollView;
     private Toolbar toolbar;
     private SearchView searchView;
     private ImageView syncImageView;
